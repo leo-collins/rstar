@@ -5,7 +5,7 @@ members = [
     "rstar",
     "rstar-demo",
     "rstar-benches"
-]
+, "rstar-capi"]
 
 # Ensure any transitive dependencies, e.g. via `geo`, use the local `rstar` crate
 [patch.crates-io]
